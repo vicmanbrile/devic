@@ -1,0 +1,23 @@
+{
+  "name": "devic",
+  "version": "1.0.0",
+  "description": "Pagina para portafolio de vicmanbrile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicmanbrile/devic.git"
+  },
+  "keywords": [
+    "Firebase",
+    "GCP"
+  ],
+  "author": "vicmanbrile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vicmanbrile/devic/issues"
+  },
+  "homepage": "https://github.com/vicmanbrile/devic#readme"
+}
